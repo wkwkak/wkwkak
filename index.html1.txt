@@ -1,8 +1,0 @@
-<html>
-    <head>
-        <title>this is my first <title>
-    </head>
-    <body>
-        <h1> hi ak </h1>
-    </body>
-</html>    
